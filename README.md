@@ -1,16 +1,10 @@
-# portfolio
+# BlogApp Flutter
+ 
+This app lets you create app versions of popular websites like Instagram, Facebook or even your own website like I did here.
 
-A new Flutter project.
+## Demo
 
-## Getting Started
+![](examples/demo.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+Simply clone the repo and change the website in the main.dart file from `codenameakshay.tech` to any that you want and build the app. You can also download the app from `examples/` directory to simply try it out.
